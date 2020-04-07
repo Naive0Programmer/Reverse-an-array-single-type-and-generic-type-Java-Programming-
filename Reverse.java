@@ -10,6 +10,7 @@ public class Reverse {
 		}
 	}
 	public static void main(String args[]) {
+		// we can use any primitive type
 		Double data [] = {1.4,2.3,3.1,4.6,5.9,6.4};
 		System.out.println(Arrays.toString(data));
 		Reverse(data);
